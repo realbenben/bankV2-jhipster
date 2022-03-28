@@ -1,0 +1,32 @@
+#accountListContainer {
+    margin: auto;
+    width: 1150px;
+    height: auto;
+    background-color: #96c3ec;
+    text-align: center;
+
+    h1 {
+        font-size: 50px;
+        padding-top: 25px;
+    }
+
+    .accountContainer {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+
+        .accountExample {
+            height: 150px;
+            width: 250px;
+            background-color: white;
+            border: solid #DFE6ED 5px;
+            &:nth-of-type(n) {
+                margin: 40px 50px;
+            }
+        }
+    }
+    p {
+        padding-bottom: 25px;
+    }
+}
