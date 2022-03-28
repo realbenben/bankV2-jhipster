@@ -1,0 +1,15 @@
+footer {
+  background-color: #96c3ec;
+  margin-top: 5%;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+
+  a {
+    margin-right: 2%;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+  }
+}

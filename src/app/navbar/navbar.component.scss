@@ -1,0 +1,18 @@
+nav {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: space-between;
+  width: 100%;
+  background-color: #96c3ec;
+  margin-bottom: 5%;
+  h3 {
+    margin-left: 2%;
+  }
+  a {
+    margin-right: 2%;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+  }
+}
