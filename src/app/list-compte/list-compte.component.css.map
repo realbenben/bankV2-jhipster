@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,qBAAqB,CAAC;EAClB,gBAAgB,EAAE,OAAO;CAC5B;;AAED,AAAA,EAAE,CAAC;EACC,SAAS,EAAE,IAAI;EACf,UAAU,EAAE,MAAM;EAClB,OAAO,EAAE,iBAAiB;CAC7B",
-    "sources": [
-        "list-compte.component.scss"
-    ],
-    "names": [],
-    "file": "list-compte.component.css"
-}
